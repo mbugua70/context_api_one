@@ -1,0 +1,3 @@
+// Another way to access or use context api
+-- it by use of the consumer property
+-- its function that reduces one or more complex value to a simpler one
